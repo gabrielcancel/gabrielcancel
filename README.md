@@ -2,7 +2,7 @@
 ## <div align="center">I'm Gabriel, a freelance data analyst 👨‍💻🚀</div>  
 <br><br/> 
 
-- 🔭 I’m currently working on a data analyst project about the French school system  
+- 🔭 I’m currently working on a data analysis project about the French school system  
   
 - 🌱 I’m currently learning VBA, Mito and Tableau Desktop  
   
